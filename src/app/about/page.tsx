@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: "About GI33 Durian",
-  description: "Learn about GI33 Durian's story, our commitment to quality, and our passion for serving the best durians in Kepong, Kuala Lumpur.",
+  description: "Learn about GI33 Durian&apos;s story, our commitment to quality, and our passion for serving the best durians in Kepong, Kuala Lumpur.",
 };
 
 export default function AboutPage() {
