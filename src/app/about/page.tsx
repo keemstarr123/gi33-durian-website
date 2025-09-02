@@ -11,7 +11,7 @@ export default function AboutPage() {
       <h1 className="text-4xl font-bold text-center mb-6 text-green-800">Our Story</h1>
       <div className="space-y-4 text-gray-700 leading-relaxed">
         <p>
-          Founded in the heart of Kuala Lumpur, GI33 Durian began with a simple mission: to share the authentic, high-quality taste of Malaysian durians with our community in Kepong and beyond. We believe that a great durian isn't just a fruit; it's an experience.
+          Founded in the heart of Kuala Lumpur, GI33 Durian began with a simple mission: to share the authentic, high-quality taste of Malaysian durians with our community in Kepong and beyond. We believe that a great durian isn&apos;t just a fruit; it&apos;s an experience.
         </p>
         <p>
           Our journey started with a deep passion for the King of Fruits. We have spent years building relationships with the best orchards to ensure that every durian we sell meets our rigorous standards for freshness, flavor, and texture. From the iconic Musang King to other beloved varieties, we hand-pick each fruit to guarantee your satisfaction.
