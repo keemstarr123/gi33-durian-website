@@ -9,7 +9,7 @@ export default function HomePage() {
           The King of Fruits, Perfected.
         </h1>
         <p className="text-lg md:text-xl text-green-800 max-w-3xl mx-auto mb-8">
-          Welcome to GI33 Durian, Kepong's premier destination for the freshest and most delicious durians. Taste the quality that sets us apart.
+          Welcome to GI33 Durian, Kepong&apos;s premier destination for the freshest and most delicious durians. Taste the quality that sets us apart.
         </p>
         <Link href="tel:0109450225" className="bg-green-700 text-white font-bold py-3 px-8 rounded-full hover:bg-green-800 transition-transform transform hover:scale-105 inline-block">
           Call to Order Now
